@@ -1,0 +1,5 @@
+rootProject.name = 'MicroservicesTraining'
+
+include 'main-service'
+include 'second-service'
+include 'third-service'
